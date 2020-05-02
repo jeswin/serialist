@@ -157,7 +157,7 @@ describe("serialist", () => {
     {
       class: "Date",
       type: "builtin",
-      value: "Sat May 12 2018 16:25:22 GMT+0530 (IST)"
+      value: "Sat May 12 2018 16:25:22 GMT+0530 (India Standard Time)"
     }
   );
 

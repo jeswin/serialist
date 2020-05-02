@@ -1,6 +1,6 @@
 {
   "name": "serialist",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "author": "Jeswin Kumar<jeswinpk@agilehead.com>",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
@@ -9,12 +9,12 @@
   },
   "license": "MIT",
   "dependencies": {
-    "@types/node": "^10.0.6"
+    "@types/node": "^13.13.4"
   },
   "devDependencies": {
-    "@types/mocha": "^5.2.0",
+    "@types/mocha": "^7.0.2",
     "@types/should": "^13.0.0",
-    "mocha": "5.1.1",
-    "should": "^13.2.1"
+    "mocha": "^7.1.2",
+    "should": "^13.2.3"
   }
 }
